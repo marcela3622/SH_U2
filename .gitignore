@@ -4,7 +4,7 @@
 /public/hot
 
 # Dependencias
-/vendor
+vendor
 /node_modules
 
 # Archivos de configuración de entorno
