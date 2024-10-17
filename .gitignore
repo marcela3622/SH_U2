@@ -5,12 +5,12 @@
 
 # Dependencias
 .vendor
-node_modules
+.node_modules
 
 # Archivos de configuración de entorno
  env
-.env.backup
-.env.production
+ env.backup
+ env.production
 
 # Archivos de caché de PHPUnit
 .phpunit.cache
