@@ -1,0 +1,33 @@
+# Laravel
+/public/storage
+/public/build
+/public/hot
+
+# Dependencias
+/vendor
+/node_modules
+
+# Archivos de configuración de entorno
+.env
+.env.backup
+.env.production
+
+# Archivos de caché de PHPUnit
+.phpunit.cache
+.phpunit.result.cache
+
+# Archivos de configuración específicos de entornos
+Homestead.json
+Homestead.yaml
+auth.json
+
+# Archivos de log
+npm-debug.log
+yarn-error.log
+
+# Configuraciones de IDEs
+/.fleet
+/.idea
+/.vscode
+/.zed
+
