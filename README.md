@@ -10,3 +10,8 @@ Elaborar un documento en formato PDF con portada, en el que a partir de caso de 
 - Parámetros de configuración de las plataformas y herramientas de versionamiento. 1 punto.
 - Enlace del repositorio en funcionamiento con la estructura del flujo de trabajo, se deberá de compartir el repositorio de github, así como adjuntar captura de pantalla con el sitio funcionando en un cloud host. 1 punto.
 
+Integrantes del equipo:
+- FATIMA VALERO AVILA
+- ANDRES TORRES SANTOSCOY
+- MARCELA PADILLA CHARLES
+- ROBERTO GAEL QUINTERO GARCIA
